@@ -1,6 +1,22 @@
 {
-  "name": "angular",
-  "version": "0.0.0",
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "It's just a getting started of sharebook\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dfront end sharebook application",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SharebookBR/frontend.git"
+  },
+  "keywords": [
+    "sharebook",
+    "sharebook-angular-6"
+  ],
+  "author": "Caique Vallim Araujo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SharebookBR/frontend/issues"
+  },
+  "homepage": "https://github.com/SharebookBR/frontend#readme"
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
