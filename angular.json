@@ -23,7 +23,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              { "input": "src/style.scss", "bundleName": "style.css" , "lazy":true}
             ],
             "scripts": []
           },
